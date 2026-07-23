@@ -1,4 +1,7 @@
-## Hi there 👋
+Arpecious Research
+Discovering safe, ethical, and aligned artificial intelligence.
+
+At Arpecious Research, we believe AI should help humanity learn, create, innovate, and grow safely. We build secure, transparent, and human-centered AI systems, models, and research that advance the field while prioritizing safety, ethics, and real-world impact.
 
 <!--
 **Arpecious/arpecious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
